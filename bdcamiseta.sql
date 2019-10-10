@@ -85,7 +85,6 @@ WHERE IdMarca = 2;
 UPDATE camiseta SET
 	LavarMaquina = 'Sim'
 
-
 UPDATE tamanho SET
 	Medidas = '30x30'
 WHERE IdTamanho = 1;
